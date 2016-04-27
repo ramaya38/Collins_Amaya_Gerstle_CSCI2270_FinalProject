@@ -7,6 +7,7 @@ Design a blackjack game simulator with the use of linked lists.
 
 -Maximum of 8 players
 
+-----------------------------------------------------------------------------------------------------------
 
 Project Summary:
 
