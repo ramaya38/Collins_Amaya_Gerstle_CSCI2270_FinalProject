@@ -16,6 +16,13 @@ Project Summary:
 -----------------------------------------------------------------------------------------------------------
 
 How to Run:
+*Setting up the program*
+To set up the program in your complier you can either download all of the program files or copy and paste them into a new project.  Unlike common projects, our project uses two header files and two .cpp files.  Be careful in making sure that both are in the program project.  As far as choosing a compiler it is really up to you, program is designed around Codeblocks C++. 
+
+*Playing the program*
+When the program starts, the user is prompted with a main menu.  The menu gives the user the choice to either begin or quit the blackjack game.  Once the decision is made to start the game, the user must make 4 choices;  1)Choose the number of decks to play with, 2)Choose how many players will be in the game (max of 9), 3)Enter how much money each player will start with, & 4)The names of each of the players.
+
+From there on, the user interface consists of command line prompts.  The program begins to deal and begins the game by giving each user a randomized pair of cards.  Then the user has the option to hit or stay.  The program is able to recognize the sum of the two cards in the user's hand.  The program is also able to tell if the amount the user bets is over the amount of allocated playing funds.  The program is also able to tell when the sum is a perfect blackjack and automatically awards the player.
   
 -----------------------------------------------------------------------------------------------------------
   
